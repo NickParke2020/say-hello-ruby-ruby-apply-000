@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def say_hello(n)
+  puts "Hello " + n +"!"
+end

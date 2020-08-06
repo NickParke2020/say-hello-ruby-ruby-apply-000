@@ -1,2 +1,2 @@
-say_hello(n)
-  puts
+def say_hello
+  

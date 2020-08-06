@@ -1,3 +1,3 @@
-def say_hello()
+def say_hello(n)
   puts "Hello " +  +"!"
 end
